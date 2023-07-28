@@ -1,1 +1,1 @@
-# project
+This is a  static website
